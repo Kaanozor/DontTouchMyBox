@@ -1,0 +1,1 @@
+C:\Software\GameProjects\Don'tTouchMyBox\obj\Debug\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj.CoreCompileInputs.cache

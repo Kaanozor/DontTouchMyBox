@@ -1,0 +1,1 @@
+C:\Software\GameProjects\Don'tTouchMyBox\obj\Debug\PunDemos.DemoSlotcarEditor.csproj.CoreCompileInputs.cache
